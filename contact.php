@@ -83,7 +83,7 @@
 
   <p style="font-style: italic;"> Call: +91</p>
 
-<p style="font-style: italic;"> Email us : pranapatil22@gmail.com</p>
+<p style="font-style: italic;"> Email us : ......@gmail.com</p>
 <p> Write to: PVPP college of engineering ,sion,mumbai,maharashtra 400042<p>
 
 
