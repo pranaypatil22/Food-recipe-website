@@ -6,3 +6,4 @@ SET up
 4- go to your browser and type localhost:8080/website folder name 
 5- open index.php file
 6 - you are good to go
+7- Create new file
